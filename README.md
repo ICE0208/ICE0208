@@ -40,8 +40,4 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ICE0208&show_icons=true&theme=highcontrast" />
-</p>
-
 

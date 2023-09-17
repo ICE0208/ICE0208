@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://moon-svg.minung.dev">
-    <img src="https://moon-svg.minung.dev/moon.svg?round=true" alt="moon.svg" />
+    <img src="https://moon-svg.minung.dev/moon.svg?size=100&theme=ray&rotate=0" alt="moon.svg">
   </a>
 </p>
 

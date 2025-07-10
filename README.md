@@ -6,7 +6,7 @@
 
 ### What I'm Currently Working On:
 
-- 🎓 3rd Year Computer Science Student
+- 🎓 4rd Year Computer Science Student
 - 📚 Learning `ReactJS`, `Web Hacking`, `Algorithm`
 - 🚀 Building Projects with `React Native`, `Flask`
 
